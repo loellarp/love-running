@@ -190,7 +190,7 @@ hr {
 }
 
 #times {
-    background: url("../images/times-background.webp");
+    background-image: url("../images/times-background.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -254,7 +254,7 @@ footer {
 @media screen and (max-width: 1200px) {
     #club-ethos {
         width: 65%;
-        height: 600px;
+        height: 1200px;
         margin: 0 auto;
     }
 
